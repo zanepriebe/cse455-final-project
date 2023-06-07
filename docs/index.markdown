@@ -10,7 +10,7 @@ title: A Deep Dive Into Artistic Style Transfer Between Images
 
 - ### Colab Notebook: [Here](https://colab.research.google.com/drive/1LfMc6inwgxg4DnglQibusmg7rieuZhN3?usp=sharing)
 
-- ### Video: [Here]()
+- ### Video: [Here](https://drive.google.com/file/d/1DCSHgVNwJm0cZbMgcOIM4eQkr1tVPEvC/view?usp=sharing)
 
 
 ## Problem Description
